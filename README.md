@@ -1,1 +1,2 @@
-# Object-Oriented-Design-And-Analysis-Project-Flight-Reservation-and-Management-System-
+Object-Oriented-Design-And-Analysis-Project-Flight-Reservation-and-Management-System
+This Flight Management System is a web-based application built using Java, Spring Boot, and Thymeleaf. It enables users to search, book, and manage flights, while providing admins with tools to add and update flight data. The system features secure authentication using JWT, currency conversion too. It offers a clean, role-based interface for both users and administrators.
